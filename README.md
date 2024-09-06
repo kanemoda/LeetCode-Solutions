@@ -4,9 +4,9 @@ This repository contains my solutions to LeetCode problems, organized by difficu
 
 ## Folder Structure
 
-- **easy**: Contains solutions to LeetCode easy problems.
-- **medium**: Contains solutions to LeetCode medium problems.
-- **hard**: Contains solutions to LeetCode hard problems.
+- **Easy**: Contains solutions to LeetCode easy problems.
+- **Medium**: Contains solutions to LeetCode medium problems.
+- **Hard**: Contains solutions to LeetCode hard problems.
 
 ## File Naming Convention
 
